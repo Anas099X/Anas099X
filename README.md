@@ -8,7 +8,7 @@ Hi, I'm a Full-Stack Developer passionate about building cool projects using the
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Anas099X?color=red&labelColor=red&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Anas099X?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Anas099X?color=blue&style=for-the-badge&labelColor=blue&logo=star"/></a>
-             <td><img src="https://dcbadge.limes.pink/api/shield/763373235370065941" alt="" /></td>
+            <td><a target="_blank" href="https://discord.gg/GuTRtB66qP"><img src="https://dcbadge.limes.pink/api/server/GuTRtB66qP" alt="" /></a></td>
    </p>
 
 
