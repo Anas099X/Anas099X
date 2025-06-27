@@ -1,8 +1,8 @@
 # 💻 Anas099
 
-**`Junior FullStack Developer`**
+**`Software Developer`**
 
-Hi, I'm a Full-Stack Developer passionate about building cool projects using the power of Python and HTML. Feel free to take a tour around my repo :]
+Hi, I'm a Software Developer passionate about building cool projects using the power of Python and HTML. Feel free to take a tour around my repo :]
 
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Anas099X?color=red&labelColor=red&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
