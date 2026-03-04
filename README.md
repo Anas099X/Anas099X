@@ -26,8 +26,6 @@ Hi, I'm a Software Developer passionate about building cool projects using the p
 <br />
 
 
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=anas099x&show_icons=true&theme=gruvbox)
-
+### 📊 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=anas099x&theme=gruvbox&border_radius=4.5) 
 
